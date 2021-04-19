@@ -1,4 +1,4 @@
-Abra [demo.html](demo.html) para ver uma lista de todos os glifos em sua fonte junto com seus códigos/ligaduras.
+Abra a [demo](index.html) para ver uma lista de todos os glifos em sua fonte junto com seus códigos/ligaduras.
 
 ## Atualizando a fonte
 
@@ -30,7 +30,7 @@ Would you like to load all the settings stored in your selection file?`, pressio
 
 ## Informações do IcoMoon
 
-Open [demo.html](demo.html) to see a list of all the glyphs in your font along with their codes/ligatures.
+Open [demo.html](index.html) to see a list of all the glyphs in your font along with their codes/ligatures.
 
 To use the generated font in desktop programs, you can install the TTF font. In order to copy the character associated with each icon, refer to the text box at the bottom right corner of each glyph in demo.html. The character inside this text box may be invisible; but it can still be copied. See this guide for more info: https://icomoon.io/#docs/local-fonts
 
