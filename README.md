@@ -1,4 +1,4 @@
-Abra a [demo](index.html) para ver uma lista de todos os glifos em sua fonte junto com seus códigos/ligaduras.
+Abra a [demo](https://solfacil.github.io/icons-font/) para ver uma lista de todos os glifos em sua fonte junto com seus códigos/ligaduras.
 
 ## Atualizando a fonte
 
